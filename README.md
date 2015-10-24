@@ -31,7 +31,7 @@ Create a script called "run_analysis.R" that performs the following five steps:
   
   Put run_analysis.R in the UCI HAR Dataset folder, then set it as your working directory using setwd() 
   
-  Run source("run_analysis.R"), then it will generate a new "file tidy_step5.txt" in the current working directory.
+  Run source("run_analysis.R"), then it will generate a new file "tidy_step5.txt" in the current working directory.
 
 ### Dependencies
 
