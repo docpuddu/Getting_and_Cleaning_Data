@@ -28,7 +28,9 @@ Create a script called "run_analysis.R" that performs the following five steps:
 ### Instruction to proceed:
 
   Download the zip data on your local machine and extract it. You'll have a UCI HAR Dataset folder.
+  
   Put run_analysis.R in the UCI HAR Dataset folder, then set it as your working directory using setwd() 
+  
   Run source("run_analysis.R"), then it will generate a new file step5.txt in the current working directory.
 
 ### Dependencies
